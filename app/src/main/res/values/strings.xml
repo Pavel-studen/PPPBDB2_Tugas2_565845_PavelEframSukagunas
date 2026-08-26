@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CountApp</string>
+    <string name="count">0</string>
+    <string name="lbl_toast">Toast</string>
+    <string name="lbl_count">Count</string>
+</resources>
